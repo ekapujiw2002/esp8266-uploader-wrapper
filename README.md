@@ -1,2 +1,4 @@
-# esp8266-uploader-wrapper
-Simple Delphi wrapper for ESP8266 Flash and SPIFFS uploader
+# ESP8266 Uploader Wrapper
+Simple Delphi wrapper for ESP8266 Flash and SPIFFS uploader. Compile in Delphi7 and use this component below :
+- https://sourceforge.net/projects/rxlib/
+- https://github.com/TurboPack/DOSCommand
