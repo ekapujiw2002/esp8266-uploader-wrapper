@@ -1,0 +1,21 @@
+[General]
+UseProjectExternals=0
+SynchronizeContextBar=1
+SynchronizeContextBarSpeed=1
+SynchronizeContextBarModeIdle=1
+
+[Browse History]
+Count=0
+
+[Class Filters]
+Count=0
+
+[Exclude From Parsing]
+Count=0
+
+[EditWindow]
+MemberViewers=0
+LeftPanelSize=0
+RightPanelSize=0
+BottomPanelSize=0
+
